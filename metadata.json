@@ -1,0 +1,7 @@
+{
+  "name": "Itihas - Heritage Assistant",
+  "description": "An AI-powered assistant for visualizing and exploring Indian historic places with structured educational content and AI-generated concept visualizations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
